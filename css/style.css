@@ -14,6 +14,7 @@ body{
     background-repeat: repeat;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 h3{
@@ -41,7 +42,6 @@ span{
     background-image: url('../images/bg-pattern-bottom.svg');
     display: flex;
     flex-flow: column;
-    margin: 0 auto;
     border-radius: 5%;
 }
 
