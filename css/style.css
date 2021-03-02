@@ -37,7 +37,7 @@ span{
 
 .card{
     width: 325px;
-    height: 350px;
+    height: 1000px;
     background-image: url('../images/bg-pattern-bottom.svg');
     display: flex;
     flex-flow: column;
